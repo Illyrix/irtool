@@ -118,6 +118,7 @@ void print_usage() {
   _("   --only-translate, -t            Only translate COBOL code to LLVM-IR")
   _("   --only-diff, -d                 Only compare two LLVM-IR files and display their difference")
   _("   --compiler, -c <target>         Use <target> compiler execute file as COBOL compiler")
+  _("   --version, -v                   Show current version")
   _("   --diff-argument <options>       Add <options> to the diff command")
   _("   --translate-argument <options>  Add <options> to the COBOL compiler phase")
   _("Files need to have extensions with .cob(for COBOL) or .ll(for LLVM-IR)")
