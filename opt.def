@@ -1,0 +1,7 @@
+OPT_ITEM("only-translate", 0, NULL, 't')
+OPT_ITEM("only-diff", 0, NULL, 'd')
+OPT_ITEM("compiler", 1, NULL, 'c')
+OPT_ITEM("diff-argument", 1, NULL, 'a')
+OPT_ITEM("translate-argument", 1, NULL, 'A')
+OPT_ITEM("help", 0, NULL, 'h')
+OPT_ITEM("version", 0, NULL, 'v')

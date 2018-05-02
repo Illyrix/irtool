@@ -1,0 +1,10 @@
+/.vscode
+/CMakeFiles
+/test
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/test.c
+/irtool
+/irtool.exe
+/*.ll

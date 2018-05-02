@@ -1,0 +1,7 @@
+// code starts from 1
+ERROR_ITEM(1, "Translate to LLVM-IR file from COB failed")
+ERROR_ITEM(2, "Bad command arguments")
+ERROR_ITEM(3, "Input file not found")
+ERROR_ITEM(4, "MS C compiler unsupported")
+ERROR_ITEM(5, "Invalid file extension")
+ERROR_ITEM(6, "Unknown error")
